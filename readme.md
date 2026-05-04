@@ -1,5 +1,5 @@
 # Introduction
-Documentation for this project can be found here - [github.com](https://github.com/bulka4/obsidian-notes-IT-personal-projects-and-knowledge-base/blob/main/3%20-%20Notes/Fine%20tuning%20a%20Hugging%20Face%20model%20for%20semantic%20search.md), in another repository.
+Documentation for this project can be found here - [github.com](https://github.com/bulka4/obsidian-notes-IT-personal-projects-and-knowledge-base/blob/main/3%20-%20Notes/Fine%20tuning%20a%20Hugging%20Face%20model%20for%20semantic%20search%20project.md), in another repository.
 
 That repository is a private, technical knowledge base which includes much more than just documentation for this project.
 
