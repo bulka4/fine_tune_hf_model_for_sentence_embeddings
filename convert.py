@@ -1,3 +1,14 @@
+"""
+This file can be used to convert models from Hugging Face into an onnx format. We can do this by running the command:
+
+- py -m convert --quantize --task default --model_id model_path
+
+where model_path is a path where we saved the model using the following code:
+
+import sentence_transformers as st
+model = st.SentenceTransformer('model_name/url')
+model.save('model_path')
+"""
 
 import json
 import os
